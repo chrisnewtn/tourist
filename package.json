@@ -1,0 +1,23 @@
+{
+  "name": "tourist",
+  "version": "0.0.1",
+  "description": "A service for translating the names of cities",
+  "author": "Chris Newton",
+  "license": "MIT",
+  "main": "index.js",
+  "homepage": "https://github.com/chrisnewtn/tourist",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chrisnewtn/tourist.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chrisnewtn/tourist/issues"
+  },
+  "keywords": [
+    "i18n",
+    "localization",
+    "city",
+    "cities",
+    "service"
+  ]
+}
