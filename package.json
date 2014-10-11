@@ -19,5 +19,8 @@
     "city",
     "cities",
     "service"
-  ]
+  ],
+  "dependencies": {
+    "q": "^1.0.1"
+  }
 }
