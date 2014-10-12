@@ -5,6 +5,9 @@
   "author": "Chris Newton",
   "license": "MIT",
   "main": "index.js",
+  "bin": {
+    "tourist": "./bin/tourist"
+  },
   "homepage": "https://github.com/chrisnewtn/tourist",
   "repository": {
     "type": "git",
