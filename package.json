@@ -8,6 +8,9 @@
   "bin": {
     "tourist": "./bin/tourist"
   },
+  "scripts": {
+    "test": "mocha"
+  },
   "homepage": "https://github.com/chrisnewtn/tourist",
   "repository": {
     "type": "git",
@@ -25,5 +28,8 @@
   ],
   "dependencies": {
     "q": "^1.0.1"
+  },
+  "devDependencies": {
+    "mocha": "^2.0.1"
   }
 }
